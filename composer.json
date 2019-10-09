@@ -1,0 +1,18 @@
+{
+    "name": "selnew/aliyun-log-php-sdk",
+    "description": "Aliyun Log Service PHP SDK",
+    "keywords": ["aliyun","log"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mirze",
+            "email": "mirzeAdv@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.7"
+    },
+    "autoload": {
+        "files": ["Log_Autoload.php"]
+    }
+}
